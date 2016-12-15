@@ -5,6 +5,11 @@
 /typings
 /vendor
 /npm-debug.log
+/app/**/*.js
+/app/**/*.js.map
+/public_html/dist
+/public_html/index.php
+
 
 lib-cov
 *.seed
